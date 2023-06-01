@@ -15,6 +15,4 @@ Skills: REACT / JavaScript / Node/ Express/ MongoDB/ REST API/ HTML / CSS/ Tailw
 
 ![GitHub metrics](https://metrics.lecoq.io/onlyyasad)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=onlyyasad)  
-
 ![Profile views](https://gpvc.arturio.dev/onlyyasad)  
