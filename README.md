@@ -9,7 +9,7 @@ I'm a MERN Stack developer seeking opportunities as a Front-End Web Developer. I
 - 📫 How to reach me: 𝗘𝗺𝗮𝗶𝗹: onlyyasad@gmail.com | 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +880 1624 772 873 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/onlyyasad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hafijalasad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/19asad92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asadfizz/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/onlyyasad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hafijalasad/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyyasad)](https://github.com/anuraghazra/github-readme-stats)
 
