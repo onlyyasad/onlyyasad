@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Hafij Al Asad
-#### MERN Stack Web Developer
+#### Front-End Web Developer(MERN)
 ![MERN Stack Web Developer](https://i.ibb.co/47ByrKs/Blue-And-Grey-Modern-Minimalist-Digital-Marketing-Linkedin-Article-Cover-Image-3.png)
 
 I'm a MERN Stack developer seeking opportunities as a Front-End Web Developer. I have a strong foundation in the MERN (MongoDB, Express, React, Node.js) stack and a passion for building user-friendly web applications. I'm eager to apply my skills and learn from experienced professionals in a supportive environment. Currently open to internships or full-time positions, both remote and on-site. Let's connect and explore how I can contribute to your team.
 
-Skills: REACT / JavaScript / Node/ Express/ MongoDB/ REST API/ HTML / CSS/ Tailwind/ Bootstrap / JWT/ Firebase
+###### Skills: REACT / JavaScript / Node/ Express/ MongoDB/ REST API/ HTML / CSS/ Tailwind/ Bootstrap / JWT/ Firebase
 
 - 📫 How to reach me: 𝗘𝗺𝗮𝗶𝗹: onlyyasad@gmail.com | 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +880 1624 772 873 
 
