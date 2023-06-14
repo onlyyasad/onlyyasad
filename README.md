@@ -1,4 +1,4 @@
-![MERN Stack Web Developer](https://i.ibb.co/47ByrKs/Blue-And-Grey-Modern-Minimalist-Digital-Marketing-Linkedin-Article-Cover-Image-3.png)
+![MERN Stack Web Developer](https://i.ibb.co/NYdnLFF/Cover-Photo-1.png)
 
 ### Hi there 👋, I am Hafij Al Asad
 #### Front-End Web Developer(MERN)
