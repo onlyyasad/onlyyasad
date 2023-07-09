@@ -14,6 +14,4 @@ I'm a MERN Stack developer seeking opportunities as a Full-Stack Developer. I ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyyasad)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/onlyyasad)  
 
-![Profile views](https://gpvc.arturio.dev/onlyyasad)  
