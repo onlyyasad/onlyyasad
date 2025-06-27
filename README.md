@@ -1,11 +1,11 @@
-![MERN Stack Web Developer](https://i.ibb.co/NYdnLFF/Cover-Photo-1.png)
+![Software Engineer](https://i.ibb.co/NYdnLFF/Cover-Photo-1.png)
 
 ### Hi there 👋, I am Hafij Al Asad
-#### Front-End Web Developer(MERN)
+#### Software Engineer
 
-I'm a MERN Stack developer seeking opportunities as a Full-Stack Developer. I have a strong foundation in the MERN (MongoDB, Express, React, Node.js) stack and a passion for building user-friendly web applications. I'm eager to apply my skills and learn from experienced professionals in a supportive environment. Currently open to internships or full-time positions, both remote and on-site. Let's connect and explore how I can contribute to your team.
+Seasoned software engineer (focused on Front-end) with a solid 2-year track record in developing web-based software for the e-commerce industry. Proficient in JavaScript, TypeScript, React.js, Next.js. Renowned for delivering high-quality products with top-notch user experiences, responsive layouts, pixel-perfect designs, and smooth animations. 
 
-###### Skills: REACT / JavaScript / Node/ Express/ MongoDB/ REST API/ HTML / CSS/ Tailwind/ Bootstrap / JWT/ Firebase
+###### Skills: JavaScript / TypeScript / React.js / Next.js / PHP / Laravel / Node.js / Express.js / MongoDB / REST API / HTML / CSS/ Tailwind/ Bootstrap / Git / Docker
 
 - 📫 How to reach me: 𝗘𝗺𝗮𝗶𝗹: hafij.alasad23@gmail.com | 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +880 1624 772 873 
 
