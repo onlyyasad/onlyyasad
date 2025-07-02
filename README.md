@@ -15,8 +15,6 @@ Seasoned software engineer (focused on Front-end) with a solid 2-year track reco
 [<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/onlyyasad) [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/hafijalasad/) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyyasad&show_icons=true&locale=en&layout=compact" alt="onlyyasad" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlyyasad&show_icons=true&locale=en" alt="onlyyasad" /></p>
 
 
 
