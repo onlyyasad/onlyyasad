@@ -6,7 +6,7 @@
 Seasoned software engineer (focused on Front-end) with a solid 2-year track record in developing web-based software for the e-commerce industry. Proficient in JavaScript, TypeScript, React.js, Next.js. Renowned for delivering high-quality products with top-notch user experiences, responsive layouts, pixel-perfect designs, and smooth animations. 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,php,laravel,html,css,tailwind,bootstrap,git,docker)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,php,laravel,html,css,tailwind,bootstrap,git,docker)
 
 
 - 📫 How to reach me: 𝗘𝗺𝗮𝗶𝗹: hafij.alasad23@gmail.com  |  𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +880 1624 772 873 
